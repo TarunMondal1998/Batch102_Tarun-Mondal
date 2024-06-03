@@ -7,13 +7,13 @@ Data Collection and Analysis
         <li>Developing an interactive dashboard to help stakeholders to make informed decisions</li>
     </ul>
 
-    <h1>Potential Stakeholders</h1>
+    <h2>Potential Stakeholders</h2>
     <ul>
         <li>Cricket enthusiasts</li>
         <li>Individuals following the Indian cricket team closely</li>
     </ul>
 
-    <h1>Key Indicators</h1>
+    <h3>Key Indicators</h3>
     <ul>
         <li>Gender-wise distribution of the respondents</li>
         <li>Age-group distribution of respondents</li>
